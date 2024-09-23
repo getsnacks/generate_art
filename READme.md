@@ -1,5 +1,5 @@
 # Random Gradient Line Art Generator
-![alt text](image-3.png)![alt text](image.png) ![alt text](image-2.png)![alt text](image-1.png)
+![alt text](image-3.png)![alt text](image.png) ![alt text](image-2.png)
 
 This Python script generates random abstract line art images with a gradient color transition between two random colors. It uses the Python Imaging Library (PIL) to draw lines between randomly generated points on an image canvas. The color of each line smoothly transitions from a randomly chosen starting color to an ending color using a gradient effect.
 
